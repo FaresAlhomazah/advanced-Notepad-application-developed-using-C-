@@ -1,4 +1,4 @@
-# Fares's Notepad
+# Notepad
 
 This project is an advanced Notepad application developed using C# and Windows Forms. It provides an intuitive graphical user interface with a wide range of features that go beyond a traditional notepad, making it a powerful text editing tool.
 ![notepad](https://github.com/user-attachments/assets/8a06e9c5-9188-4a0d-a63e-b09bd085dcad)
